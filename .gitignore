@@ -1,0 +1,7 @@
+SFIX.csv
+sp500_joined_closes.csv
+sp500tickers.pickle
+.*
+*.swp
+!.gitignore
+stock_dfs/
